@@ -1,0 +1,53 @@
+{
+  "details": [
+    {
+      "url": "http://static.kolabo.dev/pub/docs/ASMedia/ASM2464/ASM2464PD_SPI_Flash_Supporting_List_v0_1.pdf",
+      "BucketPath": "docs/ASMedia/ASM2464/ASM2464PD_SPI_Flash_Supporting_List_v0_1.pdf",
+      "Size": 162729,
+      "FSize": "158.92 KB",
+      "Description": "ASMedia ASM2464 SPI Flash Supporting List Version 1.0"
+    },
+    {
+      "url": "http://static.kolabo.dev/pub/docs/ASMedia/ASM2464/ASM2464PD_VBUS_Current_Peak_Improvement.pdf",
+      "BucketPath": "docs/ASMedia/ASM2464/ASM2464PD_VBUS_Current_Peak_Improvement.pdf",
+      "Size": 1678262,
+      "FSize": "1.60 MB",
+      "Description": "ASMedia ASM2464PD VBUS Current Peak Improvement"
+    },
+    {
+      "url": "http://static.kolabo.dev/pub/docs/ASMedia/ASM2464/ASM2464PD_Test_Condition_Status_20220809.pdf",
+      "BucketPath": "docs/ASMedia/ASM2464/ASM2464PD_Test_Condition_Status_20220809.pdf",
+      "Size": 583982,
+      "FSize": "570.29 KB",
+      "Description": "ASMedia ASM2464PD Platform Test Status"
+    },
+    {
+      "url": "http://static.kolabo.dev/pub/docs/ASMedia/ASM2464/ASM2464PD_PDX_mid_loss_PCB_guideline_R100.pdf",
+      "BucketPath": "docs/ASMedia/ASM2464/ASM2464PD_PDX_mid_loss_PCB_guideline_R100.pdf",
+      "Size": 336286,
+      "FSize": "328.40 KB",
+      "Description": "ASMedia ASM2464PDX PCB Guideline Rev. 1.0"
+    },
+    {
+      "url": "http://static.kolabo.dev/pub/docs/ASMedia/ASM2464/PD/ASM2464PD_DataSheet_R0_4.pdf",
+      "BucketPath": "docs/ASMedia/ASM2464/PD/ASM2464PD_DataSheet_R0_4.pdf",
+      "Size": 823194,
+      "FSize": "803.90 KB",
+      "Description": "ASMedia ASM2464PD DataSheet Rev. 0.4"
+    },
+    {
+      "url": "http://static.kolabo.dev/pub/docs/ASMedia/ASM2464/PD/ASM2464PD_TYPE_C_M2_W_TI_R03.pdf",
+      "BucketPath": "docs/ASMedia/ASM2464/PD/ASM2464PD_TYPE_C_M2_W_TI_R03.pdf",
+      "Size": 547189,
+      "FSize": "534.36 KB",
+      "Description": "ASMedia ASM2464PD Type-C Reference Schematic Rev. 0.3"
+    },
+    {
+      "url": "http://static.kolabo.dev/pub/docs/ASMedia/ASM2464/PD/ASM2464PD_Type_C_PCB_guideline_R100.pdf",
+      "BucketPath": "docs/ASMedia/ASM2464/PD/ASM2464PD_Type_C_PCB_guideline_R100.pdf",
+      "Size": 338080,
+      "FSize": "330.16 KB",
+      "Description": "ASMedia ASM2464PD PCB Guideline Rev. 1.0"
+    }
+  ]
+}
