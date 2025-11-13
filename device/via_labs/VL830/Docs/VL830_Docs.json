@@ -1,0 +1,18 @@
+{
+  "details": [
+    {
+      "url": "http://static.kolabo.dev/pub/docs/VIA_Labs/VL830/VL830_Reference_Schematic.pdf",
+      "BucketPath": "docs/VIA_Labs/VL830/VL830_Reference_Schematic.pdf",
+      "Size": 398185,
+      "FSize": "388.85 KB",
+      "Description": "VL830 Reference Schematic"
+    },
+    {
+      "url": "http://static.kolabo.dev/pub/docs/VIA_Labs/VL830/VL830_DataSheet_R0_6.pdf",
+      "BucketPath": "docs/VIA_Labs/VL830/VL830_DataSheet_R0_6.pdf",
+      "Size": 963029,
+      "FSize": "940.46 KB",
+      "Description": "VL830 DataSheet Rev. 0.6"
+    }
+  ]
+}
